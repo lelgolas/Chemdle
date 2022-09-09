@@ -1,0 +1,6 @@
+    <body>
+        <form action="/compareEqn.py" method="post">
+            <input type="text" name="email"></input>
+            <input type="submit" value="Signup"></input>
+          </form>
+    </body>

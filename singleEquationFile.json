@@ -1,0 +1,22 @@
+{
+  
+        "LHS": [{
+                "coeff": 2,
+                "molecule": "KOH"
+            },
+            {
+                "coeff": 1,
+                "molecule": "CO2"
+            }
+        ],
+        "RHS": [{
+                "coeff": 1,
+                "molecule": "K2CO3"
+            },
+            {
+                "coeff": 1,
+                "molecule": "H2O"
+            }
+        ]
+    
+}

@@ -1,0 +1,79 @@
+{
+    "Equations": [{
+        "LHS": [{
+                "coeff": 2,
+                "molecule": "KOH"
+            },
+            {
+                "coeff": 1,
+                "molecule": "CO2"
+            }
+        ],
+        "RHS": [{
+                "coeff": 1,
+                "molecule": "K2CO3"
+            },
+            {
+                "coeff": 1,
+                "molecule": "H2O"
+            }
+        ]
+    },
+    {
+        "LHS": [{
+            "coeff": 6,
+            "molecule": "CO2"
+        },
+        {
+            "coeff": 6,
+            "molecule": "H2O"
+        }
+    ],
+    "RHS": [{
+            "coeff": 1,
+            "molecule": "C6H12O6"
+        },
+        {
+            "coeff": 6,
+            "molecule": "O2"
+        }
+    ]
+    },
+    {
+        "LHS": [{
+            "coeff": 2,
+            "molecule": "H2"
+        },
+        {
+            "coeff": 1,
+            "molecule": "O2"
+        }
+    ],
+    "RHS": [{
+            "coeff": 2,
+            "molecule": "H2O"
+        }
+    ]
+    },
+    {
+        "LHS": [{
+            "coeff": 1,
+            "molecule": "C2H6O"
+        },
+        {
+            "coeff": 3,
+            "molecule": "O2"
+        }
+    ],
+    "RHS": [{
+            "coeff": 2,
+            "molecule": "CO2"
+        },
+        {
+            "coeff": 3,
+            "molecule": "H2O"
+        }
+    ]
+    }
+  ]
+}
